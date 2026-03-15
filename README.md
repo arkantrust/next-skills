@@ -1,0 +1,19 @@
+# next-agent-skills
+
+My personal collection of agent skills for nextjs, use them if you want with:
+
+```bash
+pnpx skills add arkantrust/next-skills
+```
+
+## Skills
+
+- [vercel-react-best-practices](https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices)
+- [web-design-guidelines](https://skills.sh/vercel-labs/agent-skills/web-design-guidelines)
+- [next-best-practices](https://skills.sh/vercel-labs/next-skills/next-best-practices)
+- [next-cache-components](https://skills.sh/vercel-labs/next-skills/next-cache-components)
+- [next-upgrade](https://skills.sh/vercel-labs/next-skills/next-upgrade)
+- [web-quality-skills](https://skills.sh/addyosmani/web-quality-skills)
+- [shadcn](https://skills.sh/shadcn/ui/shadcn)
+
+> I have next projects running on vercel, cloudflare and on-prem so I'll keep this platform-agnostic
