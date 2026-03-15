@@ -1,0 +1,19 @@
+{
+  "name": "next-skills",
+  "version": "1.0.0",
+  "description": "My personal collection of agent skills for [Next.js.",
+  "homepage": "https://github.com/arkantrust/next-skills#readme",
+  "bugs": {
+    "url": "https://github.com/arkantrust/next-skills/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkantrust/next-skills.git"
+  },
+  "license": "MIT",
+  "author": "David Dulce",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
