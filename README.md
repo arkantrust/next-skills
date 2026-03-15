@@ -3,7 +3,7 @@
 My personal collection of [agent skills](https://agentskills.io/home) for [Next.js](https://nextjs.org/), use them if you want with [`skills`](https://skills.sh/):
 
 ```bash
-pnpx skills add arkantrust/next-skills -s '*'
+pnpx skills add arkantrust/next-skills -s '*' -a claude-code github-copilot cursor -y
 ```
 
 > [!NOTE]
