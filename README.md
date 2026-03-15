@@ -1,10 +1,13 @@
 # next-agent-skills
 
-My personal collection of agent skills for nextjs, use them if you want with:
+My personal collection of [agent skills](https://agentskills.io/home) for [Next.js](https://nextjs.org/), use them if you want with [`skills`](https://skills.sh/):
 
 ```bash
-pnpx skills add arkantrust/next-skills
+pnpx skills add arkantrust/next-skills -s '*'
 ```
+
+> [!NOTE]
+> Adding `-s '*'` will add all skills, remove it if you want to select them manually
 
 ## Skills
 
@@ -16,4 +19,4 @@ pnpx skills add arkantrust/next-skills
 - [web-quality-skills](https://skills.sh/addyosmani/web-quality-skills)
 - [shadcn](https://skills.sh/shadcn/ui/shadcn)
 
-> I have next projects running on vercel, cloudflare and on-prem so I'll keep this platform-agnostic
+> I have next projects running on vercel, cloudflare and on-prem so I'll keep this platform-agnostic.
