@@ -54,7 +54,7 @@
     "vercel-cli-with-tokens": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
-      "computedHash": "1e1664e75dcab248050faac99db1aaef1456b7945266215ccbab68ddf85b2b79"
+      "computedHash": "eb16b20dcbe6ce51e0372083d624e0847af1b09487ec99249227d5a8eddebfc0"
     },
     "vercel-composition-patterns": {
       "source": "vercel-labs/agent-skills",
