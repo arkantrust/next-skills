@@ -5,19 +5,19 @@
       "source": "addyosmani/web-quality-skills",
       "sourceType": "github",
       "skillPath": "skills/accessibility/SKILL.md",
-      "computedHash": "6462f04969f59f771150e6410e6a11fa397f2934be0b51e8650f495feed1e28d"
+      "computedHash": "10e83284d3395ab5ec2f2db602b663480a37a4ff404d16510eefe86b034fcc1a"
     },
     "best-practices": {
       "source": "addyosmani/web-quality-skills",
       "sourceType": "github",
       "skillPath": "skills/best-practices/SKILL.md",
-      "computedHash": "98dafea60ec1a7f5f70f6febcdd4b4fa3fe15723ad9c0b991c0818615bff7ba6"
+      "computedHash": "2de17c9838c439f6ed12b9963d303e058cd46f1ba0c2700814fe4762e0e307b9"
     },
     "core-web-vitals": {
       "source": "addyosmani/web-quality-skills",
       "sourceType": "github",
       "skillPath": "skills/core-web-vitals/SKILL.md",
-      "computedHash": "fa437acc2249cea2cb28f190ba7faf8fdfac829d1c1aafa9ce938c6dd9338721"
+      "computedHash": "8e55888cc177e994e2cbfa0ee0a277e1273c6d43c8cf7649165f9e2f39489a48"
     },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
@@ -46,13 +46,13 @@
       "source": "addyosmani/web-quality-skills",
       "sourceType": "github",
       "skillPath": "skills/performance/SKILL.md",
-      "computedHash": "acbafe2fcbfc3a1a67db47c2f6299d5c0e16f543c4e683e38e74a8ccb54888fb"
+      "computedHash": "38e9a28b0a5ce04a9e3bd6e9cfb2e52e4012f0e93d763eb863b15218a7abccd6"
     },
     "seo": {
       "source": "addyosmani/web-quality-skills",
       "sourceType": "github",
       "skillPath": "skills/seo/SKILL.md",
-      "computedHash": "f1fed683b76913d26fbf1aa1e008e6932f7771701fc3a79925b042236aa4681a"
+      "computedHash": "1f1551c898c17a88a976b4f4aa84e17886f115f3887b62d1c4f8a1c040e4d1ef"
     },
     "shadcn": {
       "source": "ui",
@@ -96,7 +96,7 @@
       "source": "addyosmani/web-quality-skills",
       "sourceType": "github",
       "skillPath": "skills/web-quality-audit/SKILL.md",
-      "computedHash": "4a17c722fe443c075bdf4ed175925806dc1ef7cd10cac3b010899a9eb0c2526e"
+      "computedHash": "48e90790e9269d46c6471bbc61d109db05bdc2ef834734dff21c039880934e9b"
     }
   }
 }
