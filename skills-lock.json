@@ -40,7 +40,7 @@
       "source": "vercel-labs/next-skills",
       "sourceType": "github",
       "skillPath": "skills/next-upgrade/SKILL.md",
-      "computedHash": "e3aeb1f9e8a68d24df0c1c2e3c8ab97ede09a7251a2c76988318d02254346979"
+      "computedHash": "be6bbf6ab1dc2cc6f2505cea52d497920c04f5b532c0846ee201f6029b803fb0"
     },
     "performance": {
       "source": "addyosmani/web-quality-skills",
